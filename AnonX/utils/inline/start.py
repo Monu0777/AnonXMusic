@@ -52,5 +52,12 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="✪𝑺туℓє✰𝑵αмє✪", url=config.SUPPORT_GROUP
             )
         ],
+        [
+            InlineKeyboardButton(
+                text="✪𝑺туℓє✰𝑵αмє✪", url=f"https://t.
+
+me/About_Info_Devil"
+            )
+        ],
      ]
     return buttons
