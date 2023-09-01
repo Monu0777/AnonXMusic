@@ -94,7 +94,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/a3d20f525637eed3cc092.jpg",
+        photo=f"https://telegra.ph/file/0aad28613ca8630da10ee.jpg",
         caption=f"""🍁𝐂ʅιƈ𝐊🥰𝐁ҽʅσ𝐖💝𝐁υƚƚσ𝐍✨𝐓σ🙊𝐆ҽ𝐓🌱𝐒υρρσɾ𝐓🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
