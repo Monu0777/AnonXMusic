@@ -23,7 +23,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔥︻┻┳═सरकार🔥", url=f"https://t.me/ll_SARKAR_BABY_ll")
+                        "🔥Monu Gupta 🔥", url=f"https://t.me/Monu_Gupta_01")
                 ]
             ]
         ),
@@ -41,7 +41,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔥︻┻┳═सरकार🔥", url=f"https://t.me/ll_SARKAR_BABY_ll")
+                        "🔥Monu Gupta 🔥", url=f"https://t.me/Monu_Gupta_01")
                 ]
             ]
         ),
@@ -64,7 +64,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱𝐒υρρσɾ𝐓🌱", url=f"https://t.me/TKS_JOIN")
+                        "🌱𝐒υρρσɾ𝐓🌱", url=f"https://t.me/About_Info_Devil")
                 ]
             ]
         ),
@@ -82,7 +82,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱𝐒υρρσɾ𝐓🌱", url=f"https://t.me/TKS_JOIN")
+                        "🌱𝐒υρρσɾ𝐓🌱", url=f"https://t.me/About_Info_Devil")
                 ]
             ]
         ),
@@ -100,7 +100,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱𝐒υρρσɾ𝐓🌱", url=f"https://t.me/TKS_JOIN")
+                        "🌱𝐒υρρσɾ𝐓🌱", url=f"https://t.me/About_Info_Devil")
                 ]
             ]
         ),
