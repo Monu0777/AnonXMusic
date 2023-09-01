@@ -17,13 +17,13 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/153d1b0c97111b767fd2a.jpg",
+        photo=f"https://telegra.ph/file/4878eba458919fab40829.jpg",
         caption=f"""🍁𝐂ʅιƈ𝐊🥰𝐁ҽʅσ𝐖💝𝐁υƚƚσ𝐍✨𝐓σ🙊𝐃ɱ❤️𝐎ɯɳҽɾ𝐑🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🔥Monu Gupta 🔥", url=f"https://t.me/Monu_Gupta_01")
+                        "🔥 🇮🇳≛⃝𝐌𝐨𝐧𝐮💕𝄟𝐆𝐮𝐩𝐭𝐚᭄💞࿐ 🔥", url=f"https://t.me/Monu_Gupta_01")
                 ]
             ]
         ),
@@ -35,13 +35,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/153d1b0c97111b767fd2a.jpg",
+        photo=f"https://telegra.ph/file/4878eba458919fab40829.jpg",
         caption=f"""🍁𝐂ʅιƈ𝐊🥰𝐁ҽʅσ𝐖💝𝐁υƚƚσ𝐍✨𝐓σ🙊𝐃ɱ❤️𝐎ɯɳҽ𝐑🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🔥Monu Gupta 🔥", url=f"https://t.me/Monu_Gupta_01")
+                        "🔥 🇮🇳≛⃝𝐌𝐨𝐧𝐮💕𝄟𝐆𝐮𝐩𝐭𝐚᭄💞࿐ 🔥", url=f"https://t.me/Monu_Gupta_01")
                 ]
             ]
         ),
